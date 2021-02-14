@@ -1,10 +1,8 @@
 package thirtyDaysOfCode.day14;
 
-import java.util.*;
-import java.util.stream.IntStream;
+import java.util.Arrays;
+import java.util.Scanner;
 
-
-// Hardcoded max and min values
 class Difference {
     private int[] elements;
     public int maximumDifference;
@@ -24,7 +22,6 @@ class Difference {
     }
 
 } // End of Difference class
-
 
 
 //// Hardcoded max and min values
