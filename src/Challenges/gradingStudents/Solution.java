@@ -1,4 +1,4 @@
-package Challenges.GradingStudents;
+package Challenges.gradingStudents;
 
 import java.io.*;
 import java.util.*;
